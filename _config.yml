@@ -1,13 +1,13 @@
 remote_theme: Huxpro/huxpro.github.io
 
 # Site settings
-title: Ruby Lab Blog
-SEOTitle: Ruby Lab | Blog
+title: Ruby Box Blog
+SEOTitle: Ruby Box | Blog
 header-img: img/home-bg.jpg
 email: ckdbsk12@gmail.com
 description: "Ruby。 Software Engineer。"
 keyword: "Web, Javascript"
-url: "https://ruby-lab.github.io"              # your host, for absolute URL
+url: "https://ruby-box.github.io"              # your host, for absolute URL
 baseurl: ""                                   # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username:    uunnaa
+github_username:    ruby-box
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
