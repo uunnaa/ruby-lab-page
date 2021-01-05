@@ -14,7 +14,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username:    ruby
+github_username:    ruby-box
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
