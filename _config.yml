@@ -1,6 +1,6 @@
 # Site settings
-title: Ruby Lab Blog
-SEOTitle: Ruby Lab | Blog
+title: Ruby Box Blog
+SEOTitle: Ruby Box | Blog
 header-img: img/home-bg.jpg
 email: ckdbsk12@gmail.com
 description: "Ruby。 Software Engineer。"
@@ -14,7 +14,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username:    uunnaa
+github_username:    ruby
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
