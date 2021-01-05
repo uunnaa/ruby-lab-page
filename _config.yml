@@ -99,11 +99,11 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
-        title: "테스트",
-        href: "https://ruby-box.github.io/"
-    }
-]
+# friends: [
+#     {
+#         title: "테스트",
+#         href: "https://ruby-box.github.io/"
+#     }
+# ]
 
 theme: jekyll-theme-minimal
